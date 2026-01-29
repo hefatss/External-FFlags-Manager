@@ -1,0 +1,15 @@
+v1.3 ( Jan 24, 2026 )
+[ + ] Uninject Support: Added ability to reset flags to default. Button is disabled until injection occurs.
+[ + ] Smart Header: Status bar moved to header showing Roblox connection, offsets, and active injected flag count.
+[ + ] Better Detection: Injection now recognizes all flag prefixes (FFlag, DFFlag, FInt, etc.) with fallback logic.
+[ + ] Safety: System now backups memory before writing to ensure safe restoration.
+[ + ] Added toast notifications for success/fail actions and improved disabled button visibility.
+[ + ] Resolved relative path build errors and XAML tag issues.
+
+v1.2 ( Dec 13, 2025 )
+[ + ] Fixed bug editing FFlags and Value
+[ + ] Add effect at FFlags if selected/active
+[ + ] Improve Injection FFlags Logic
+
+v1.1 ( Dec 11, 2025 )
+[ + ] Initial Release
